@@ -1,3 +1,6 @@
+![App Screenshot](screenshot1.png)
+![App Screenshot](screenshot2.png)
+
 # React + Flask + MySQL CRUD App (Dockerized)
 
 This is a full-stack CRUD application using:
