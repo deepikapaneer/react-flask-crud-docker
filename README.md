@@ -1,4 +1,5 @@
-![App Screenshot](screenshot1.png,screenshot2.png)
+![App Screenshot](screenshot1.png)
+![App Screenshot](screenshot2.png)
 
 # React + Flask + MySQL CRUD App (Dockerized)
 
